@@ -71,9 +71,5 @@
       <Project>{680A1709-25EB-4D52-A87F-EE03FFD94BAA}</Project>
       <Name>ServiceStack</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\NLog\src\NLog\NLog.Mono.csproj">
-      <Project>{E7AB20BF-6920-442A-B876-CC05BC5CEC79}</Project>
-      <Name>NLog.Mono</Name>
-    </ProjectReference>
   </ItemGroup>
 </Project>
